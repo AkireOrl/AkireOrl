@@ -27,12 +27,7 @@ M formación inicial se centró en el diseño web en Wordpress optimizado para m
 
 
 
-
-<div style="display: flex; flex-direction: row; justify-content: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=akireorl&show_icons=true&theme=synthwave" alt="AkireOrl's GitHub stats">
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akireorl&layout=compact&theme=synthwave" alt="Top Langs">
-    </div>
-</div>
+<p>
+  <img alt="AkireOrl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akireorl&show_icons=true&hide_border=true&theme=synthwave" width="52%"/>
+<img align="right" alt="AkireOrl's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akireorl&hide_border=true&layout=compact&theme=synthwave" width="45%"/>
+</p>
